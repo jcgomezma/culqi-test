@@ -18,7 +18,6 @@
     "tslint": "^5.20.1"
   },
   "scripts": {
-    "deploy": "serverless deploy",
     "test": "jest",
     "local": "serverless offline start"
   }
